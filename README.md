@@ -1,8 +1,3 @@
-# stock-market-analysis-using-python
-Certainly! Here's a suggested description for your README.md file on GitHub:
-
----
-
 # Stock Market Analysis using Python
 
 ## Overview
