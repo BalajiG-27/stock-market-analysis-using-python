@@ -33,14 +33,6 @@ To get started with stock market analysis using this project, follow these steps
 - plotly.graph_objects
 - plotly.express
 
-## Contribute
-
-Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and enhancements are highly valued.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 Happy analyzing!
 
 ---
